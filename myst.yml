@@ -27,9 +27,7 @@ project:
     - pages/references.bib
   toc:
     - file: index.md
-    - title: Preface
-      children:
-        - file: pages/preface.md
+    - file: pages/CV.md
     - title: Getting Started
       children:
         - file: pages/part01/getting-started.md

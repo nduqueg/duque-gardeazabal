@@ -18,7 +18,7 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Preface
+# Ridiculum Vitae
 
 Welcome to this book. This preface provides an overview of what you will learn.
 

@@ -1,11 +1,11 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Renewables, droughts, floods and climate variability
+subtitle: Personal website - Dr. Nicolás Duque Gardeazábal
 ---
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+Welcome to an *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors. Specifically, I research and apply knowledge of drivers of weather and climate to **renewable energy sources** () and to the analysis of **extreme hydrometeorological events** (droughts, floods, and -- someday -- heat, fires, and wind extremes). 
 
 ---
 

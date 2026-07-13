@@ -1,8 +1,9 @@
 version: 1
 project:
-  title: Website Title
-  # authors:
-  #   - name: Author Name
+  title: Homepage
+  authors:
+      linkedin: in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
+      researchgate: profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf
   copyright: '2026'
   exclude:
     - _build
@@ -16,10 +17,12 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: nduqueg/duque-gardeazabal
+  linkedin: in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
+  researchgate: profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf
   thebe:
     binder:
-      repo: opengeos/myst-website-template
+      repo: nduqueg/duque-gardeazabal
       provider: github
       url: https://mybinder.org
       ref: main
@@ -28,7 +31,8 @@ project:
   toc:
     - file: index.md
     - file: pages/CV.md
-    - title: Getting Started
+    - file: pages/Publications.md
+    - title: Clim. Variability info and projects
       children:
         - file: pages/part01/getting-started.md
         - file: pages/part01/installation.md

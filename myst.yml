@@ -1,9 +1,9 @@
 version: 1
 project:
   title: Homepage
-  authors:
-      linkedin: in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
-      researchgate: profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf
+  # authors:
+  #     linkedin: in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
+  #     researchgate: profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf
   copyright: '2026'
   exclude:
     - _build
@@ -57,6 +57,17 @@ site:
   actions:
     - title: RSS
       url: https://opengeos.org/myst-website-template/rss.xml
+      # - title: LinkedIn      
+      # url: https://www.linkedin.com/in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
+      # - title: ResearchGate
+      # url: https://www.researchgate.net/profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf
   template: book-theme
   parts:
     primary_sidebar_footer: ''
+    navbar_end: 
+      <a href="https://www.linkedin.com/in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en" class="navbar-social-link navbar-social-link--linkedin" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+        <span class="navbar-social-icon">in</span>
+      </a>
+      <a href="https://www.researchgate.net/profile/Nicolas-Duque-Gardeazabal?ev=hdr_xprf" class="navbar-social-link navbar-social-link--researchgate" target="_blank" rel="noreferrer noopener" aria-label="ResearchGate">
+        <span class="navbar-social-icon">RG</span>
+      </a>

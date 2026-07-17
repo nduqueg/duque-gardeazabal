@@ -8,7 +8,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Currilum Vitae
+title: Curriculum Vitae
 #abstract: ""
 authors:
   - name: Dr. Nicolás Duque Gardeazábal

@@ -113,11 +113,11 @@ Habilidades y fortalezas tales como: proactividad, adaptación, trabajo en equip
   - Hydrological modelling and water availability assessment for the Lebrija river under the [agreement N#4 with Ecopetrol](https://www.ideam.gov.co/sala-de-prensa/informes/publicacion-mie-15112023-1200)
 * - **Consultancy**
       - National hydrocarbon agency
-      - INCCA university of Colombia
+      - INCCA university of Colombia - Bogotá
       - Septemeber 2020 - April 2021
   - Engineering and teaching services
-      - Establish requirements for the hydrological modelling and water resources assesmments in the Putumayo deparment
-      - Teaching hydrology course (2 modules on 2 different semesters)
+      - Establish requirements for the hydrological modelling and water resources assessment in the Putumayo deparment
+      - Teaching hydrology course at INCCA university (2 modules on 2 different semesters)
 * - **Natura NGO -  [Magdalena Cauca vive project](https://natura.org.co/minisitio-cauca-vive/)**
       - July 2019 - July 2020
   - Hydrometeorologist leader and hydrological modeller

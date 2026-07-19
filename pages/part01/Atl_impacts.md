@@ -8,10 +8,10 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Installation
-abstract: ""
+title: Atlantic modes impacts on S. America
+# abstract: ""
 authors:
-  - name: Author Name
+  - name: Dr. Nicolás Duque Gardeazábal
 exports:
   - format: typst
     template: lapreprint-typst

@@ -34,8 +34,8 @@ project:
     - file: pages/Publications.md
     - title: Clim. Variability info and projects
       children:
-        - file: pages/part01/getting-started.md
-        - file: pages/part01/installation.md
+        - file: pages/part01/ENSO_diversity.md
+        - file: pages/part01/Atl_impacts.md
     - title: Examples
       children:
         - file: pages/part02/first-example.md
@@ -56,7 +56,7 @@ site:
     # analytics_google: G-XXX
   actions:
     - title: RSS
-      url: https://opengeos.org/myst-website-template/rss.xml
+      # url: https://opengeos.org/myst-website-template/rss.xml
       # - title: LinkedIn      
       # url: https://www.linkedin.com/in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en
       # - title: ResearchGate

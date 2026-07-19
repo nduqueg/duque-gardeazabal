@@ -8,10 +8,10 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Getting Started
-abstract: ""
+title: ENSO diversity
+# abstract: ""
 authors:
-  - name: Author Name
+  - name: Dr. Nicolás Duque Gardeazábal
 exports:
   - format: typst
     template: lapreprint-typst
@@ -19,6 +19,13 @@ exports:
 ---
 
 # Getting Started
+
+ ```{figure} /../images/ELI_comp_Dec_2.png
+:name: fig-sample
+:alt: A sample bar chart
+
+Sea surface temperature composites for two categories of El Niño - Southern Oscillation.
+```
 
 This chapter introduces the fundamental concepts.
 

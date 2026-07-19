@@ -20,13 +20,6 @@ Welcome to this *anxious* attempt to help create a better world through analysin
 :::
 
 
-% ```{figure} ./pages/images/ELI_comp_Dec_2.png
-%:name: fig-sample
-%:alt: A sample bar chart\
-%
-%Sea surface temperature composites for two categories of El Niño - Southern Oscillation.
-%```
-
 ## Featured Projects
 
 ::::{grid} 1 2 4 4

@@ -20,10 +20,9 @@ exports:
 
 # Getting Started
 
- ```{figure} /../images/ELI_comp_Dec_2.png
+ ```{figure} ../images/ELI_comp_Dec_2.png
 :name: fig-sample
-:alt: A sample bar chart
-
+:alt: 
 Sea surface temperature composites for two categories of El Niño - Southern Oscillation.
 ```
 

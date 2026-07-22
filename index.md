@@ -8,16 +8,24 @@ subtitle: Personal website - Dr. Nicolás Duque Gardeazábal
 
 ## Hi, what brought you here?? 
 
-Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors. Specifically, I research and apply knowledge of drivers of weather and climate to **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes). 
+:::{margin} 
+![Alt text](pages/images/foto_mia.png)
+:::
+
+Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors. Specifically, I research and work on drivers of weather and climate impacts on **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes), that have impacts in agriculture and the broad economy. 
+
+This helps to improve forecasts, adjust logistic processes and *reduce the impacts on bussinesses*.
+
+**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22** - *[ENSO diversity](pages/part01/ENSO_diversity.md)* 
 
 ---
 
-:::{card} ENSO diversity
-:link: pages/ENSO_diversity.md
+<!-- :::{card} ENSO diversity
+:link: pages/part01/ENSO_diversity.md
 ![](pages/images/ELI_comp_Dec_2.png)
 +++
-**Current El Niño Longitude Index (ELI) = 187.6 - Date: 2026-07-12** 
-:::
+**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22** 
+::: -->
 
 
 ## Featured Projects
@@ -25,17 +33,17 @@ Welcome to this *anxious* attempt to help create a better world through analysin
 ::::{grid} 1 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
+:link: pages/part01/Atl_impacts.md
+![mystmd](pages/images/Atl_chain.png)
 +++
-**MyST Markdown**
+**Atlantic variability**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
+:link: pages/part01/ENSO_diversity.md
+![jupyter-book](pages/images/SOI_Evolution_central_East_Pacific_ENSO.png)
 +++
-**Jupyter Book**
+**ENSO diversity**
 :::
 
 :::{card}

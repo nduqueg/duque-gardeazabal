@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.nc
+*.Rhistory
+*update_ELI.R
+
 # C extensions
 *.so
 

@@ -36,14 +36,14 @@ project:
       children:
         - file: pages/part01/ENSO_diversity.md
         - file: pages/part01/Atl_impacts.md
-    - title: Examples
-      children:
-        - file: pages/part02/first-example.md
-    - file: blog.md
-      children:
-        - file: tags/myst-markdown.md
-        - file: tags/tutorial.md
-        - file: tags/github-pages.md
+    # - title: Examples
+    #   children:
+    #     - file: pages/part02/first-example.md
+    # - file: blog.md
+    #   children:
+    #     - file: tags/myst-markdown.md
+    #     - file: tags/tutorial.md
+    #     - file: tags/github-pages.md
     - pattern: posts/*.md
       hidden: true
 site:

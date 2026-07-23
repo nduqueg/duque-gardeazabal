@@ -36,9 +36,7 @@ project:
       children:
         - file: pages/part01/ENSO_diversity.md
         - file: pages/part01/Atl_impacts.md
-    # - title: Examples
-    #   children:
-    #     - file: pages/part02/first-example.md
+    - file: pages/part02/Climate_services.md
     # - file: blog.md
     #   children:
     #     - file: tags/myst-markdown.md

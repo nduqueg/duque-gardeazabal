@@ -43,12 +43,17 @@ ELI <- Coord.E[ cells.above ,1] %>%
 write.csv(ELI, "Current_ELI.csv", col.names = F, row.names = F)
 
 ## update value on webpage ----
-a <- readLines("../index.md")
+ch.file.ELI <- function(x){
+  a <- readLines(x)
+  
+  find <- grep("**Current El Niño Longitude Index (ELI)", a, fixed = T) %>% as.numeric()
+  b <- read.csv("Current_ELI.csv",header=T) %>% round(.,1)
+  
+  substr(a[ find ], 43, 47) <- as.character(b)
+  substr(a[ find ], 57, 66) <- as.character(today)
+  
+  write.table(a,x,row.names = F,col.names = F,quote = F)
+}
 
-find <- grep("**Current El Niño Longitude Index (ELI)", a, fixed = T) %>% as.nuneric()
-b <- read.csv("Current_ELI.csv",header=T)
-
-substr(a[ find ], 43, 47) <- as.character(b)
-substr(a[ find ], 57, 66) <- as.character(today)
-
-write.table(a,"../index.md",row.names = F,col.names = F,quote = F)
+ch.file.ELI("../index.md")
+ch.file.ELI("./part01/ENSO_diversity.md")

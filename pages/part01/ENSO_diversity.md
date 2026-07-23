@@ -18,49 +18,36 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Getting Started
+**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22**
+
+# Every El Niño event is different and also its impacts
 
  ```{figure} ../images/ELI_comp_Dec_2.png
-:name: fig-sample
+:name: fig-ENSO-diversity
 :alt: 
 Sea surface temperature composites for two categories of El Niño - Southern Oscillation.
 ```
 
-This chapter introduces the fundamental concepts.
+Depending on ocean-atmospheric variables in the Pacific, the atmosphere reacts differently to the position of the Sea Surface Temperature (SST) anomalies. This imply different impacts on the worlds climate, i.e. the teleconnections, depending on how much SSTs are over the convection thershold and their location (https://doi.org/10.1029/2018GL079203). Then ENSO events can be classified as Central or East Pacific events ({numref}`fig-ENSO-diversity`) 
 
-## Overview
+How differently do they evolve? It depends on pressure difference over the Pacific ({numref}`fig-SOI`).
 
-Provide an overview of the topic here.
+## Changes in pressure control winds
 
-## Key Concepts
-
-Explain the key concepts that readers need to understand.
-
-```{code-cell} ipython3
-print("Hello, World!")
+```{figure} ../images/SOI_Evolution_central_East_Pacific_ENSO.png
+:name: fig-SOI
+:alt: 
+Diversity of the differential pressure between Tahiti and Darwin (Southern Oscillation Index - SOI) for East and Central Pacific ENSO eventos.
 ```
 
-## Sample Table
+We know the evolution towards one kind of ENSO event is probably related to the occurrence of Westerly wind events, which are controlled by changes in atmospheric pressure (influenced by the SST). The SOI – a pressure-based index – gives us some clues on how these strong east events evolve ({numref}`fig-SOI`). The SOI was consistently low in the two East Pacific events (during year 0 and beginning of year+1), compared to central Pacific events. 2026 is following a similar track, but it must remain low.
 
-The table below shows an overview of the key tools used in this book.
+## Global teleconnetions and the impacts change depending on the kind of event
 
-```{list-table} Overview of key tools
-:header-rows: 1
-:name: tab-tools
+Some research has look at how teleconnections to **North America and Europe** depend on the position of alterated convection in the tropical Pacific (https://doi.org/10.1007/s00382-019-05004-8), few have look to the connection to Europe and its effects on tropical cyclones. The differneces in the influence to South America is being considered but not explicitly with the logitudinal position of the SSTs ({numref}`fig-ENSO-SAme`; http://dx.doi.org/10.1038/s43017-020-0040-3). 
 
-* - Tool
-  - Description
-  - Version
-* - Python
-  - Programming language
-  - 3.12
-* - NumPy
-  - Numerical computing library
-  - 1.26
-* - Matplotlib
-  - Plotting and visualization
-  - 3.8
-* - MyST
-  - Markdown authoring framework
-  - 1.8
+```{figure} ../images/ENSO-diversity_SAmer.png
+:name: fig-ENSO-SAme
+:alt: 
+Impacts of ENSO diversity in South America's precipitation for (left) East Pacific and (right) Central Pacific ENSO events. Taken from http://dx.doi.org/10.1038/s43017-020-0040-3.
 ```

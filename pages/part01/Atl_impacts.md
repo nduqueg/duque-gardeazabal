@@ -18,7 +18,13 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Installation
+# Underconstruction
+
+ ```{figure} ../images/Atl_chain.png
+:name: fig-Atl_chain
+:alt: 
+Chain of physical processes that connect the Atlantic Meridional mode and the Evapotranspiration in South America.
+```
 
 This chapter covers how to set up your environment.
 

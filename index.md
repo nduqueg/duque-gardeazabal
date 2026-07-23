@@ -12,9 +12,9 @@ subtitle: Personal website - Dr. Nicolás Duque Gardeazábal
 ![Alt text](pages/images/foto_mia.png)
 :::
 
-Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors. Specifically, I research and work on drivers of weather and climate impacts on **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes), that have impacts in agriculture and the broad economy. 
+Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors. Specifically, I research and work on drivers of weather and climate impacts on **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes), that have impacts on agriculture and the broad economy. 
 
-This helps to improve forecasts, adjust logistic processes and *reduce the impacts on bussinesses*.
+This helps to improve forecasts, adjust logistic processes and *reduce the impacts on businesses* (climate services).
 
 **Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22 - [ENSO diversity](pages/part01/ENSO_diversity.md)**
 
@@ -34,7 +34,7 @@ This helps to improve forecasts, adjust logistic processes and *reduce the impac
 
 :::{card}
 :link: pages/part01/Atl_impacts.md
-![mystmd](pages/images/Atl_chain.png)
+![mystmd](pages/images/SST_Atl_modes.png)
 +++
 **Atlantic variability**
 :::

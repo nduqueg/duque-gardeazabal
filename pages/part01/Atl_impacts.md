@@ -43,4 +43,5 @@ Forecasting these modes is possible and thus we can predict the impacts they hav
 ## Current values (under construction)
 
 Meridional mode - XXXX SD
+
 Equatorial mode - XXXX SD

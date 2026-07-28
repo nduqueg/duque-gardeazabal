@@ -101,7 +101,7 @@ table th:first-child {
 .myst-primary-sidebar .myst-primary-sidebar-pointer {
   max-width: 15rem !important;
   width: 15rem !important;
-  min-width: 0 !important;
+  min-width: 0rem !important;
 }
 
 /* Entire outline container */

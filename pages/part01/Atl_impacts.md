@@ -18,7 +18,7 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Underconstruction
+# Impacts on renewable energy and hydroclimate (agriculture)
 
  ```{figure} ../images/Atl_chain.png
 :name: fig-Atl_chain
@@ -26,21 +26,21 @@ exports:
 Chain of physical processes that connect the Atlantic Meridional mode and the Evapotranspiration in South America.
 ```
 
-This chapter covers how to set up your environment.
+Ocean-atmospheric modes of variability alter the regional atmospheric circulation (winds), which then modifies other variables that cause weather changes over the continent (chain of processes). Hence, they impact the solar and wind energy, and also the soci-economic sectors that heavily use water (hydropower and agriculture). The *chain of processes* is shown in {numref}`fig-Atl_chain`, with the changes in moisture transport and convergence in the first row, the changes in net radiation (linked to solar radiation) and cloud cover in the second row, changes in soil moisture and precipitation in the third row, and the changes in evaporation in the fourth row. Specifically, the changes in wind speed, radiation and soil moisture are of high interest for the aforementioned socio-econmic sectors; for more information, you can consult https://doi.org/10.1002/met.70165, and https://doi.org/10.5194/hess-29-3277-2025.
 
-## Prerequisites
+## Atlantic meridonal mode and the equatorial mode (Atlantic El Niño)
 
-List the prerequisites here.
-
-## Installation Steps
-
-```bash
-pip install numpy matplotlib
+```{figure} ../images/SST_Atl_modes.png
+:name: fig-Atl_modes
+:alt: 
+The two leading modes in the Atlantic ocean Sea Surface temperature (SST).
 ```
 
-## Verifying the Installation
+Other ocean-atmospheric phenomena - different from El Niño in the Pacific ([ENSO](ENSO_diversity.md)) - influence the atmospheric circulation and create changes on continental local weather. For South America, modes of variability in the Atlantic also influence the tropical band of the continent ({numref}`fig-Atl_modes`); the most recurrent modes are the Atlantic Meridional and the equatorial mode (also known as Atlantic El Niño). Those modes are interlinked with ENSO via tropical and extratropical teleconnections (https://doi.org/10.1126/science.aav4236).
 
-```{code-cell} ipython3
-import sys
-print(f"Python version: {sys.version}")
-```
+Forecasting these modes is possible and thus we can predict the impacts they have in renewable energy and agriculture ([climate services](../part02/Climate_services.md))
+
+## Current values (under construction)
+
+Meridional mode - XXXX SD
+Equatorial mode - XXXX SD

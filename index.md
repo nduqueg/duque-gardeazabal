@@ -16,7 +16,7 @@ Welcome to this *anxious* attempt to help create a better world through analysin
 
 This helps to improve forecasts, adjust logistic processes and *reduce the impacts on businesses* (climate services).
 
-**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22 - [ENSO diversity](pages/part01/ENSO_diversity.md)**
+**Current El Niño Longitude Index (ELI) = 182.5 - Date: 2026-07-03 - [ENSO diversity](pages/part01/ENSO_diversity.md)**
 
 ---
 
@@ -24,7 +24,7 @@ This helps to improve forecasts, adjust logistic processes and *reduce the impac
 :link: pages/part01/ENSO_diversity.md
 ![](pages/images/ELI_comp_Dec_2.png)
 +++
-**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22** 
+**Current El Niño Longitude Index (ELI) = 182.5 - Date: 2026-07-03** 
 ::: -->
 
 

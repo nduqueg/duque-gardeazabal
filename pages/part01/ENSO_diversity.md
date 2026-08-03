@@ -18,7 +18,7 @@ exports:
     output: _build/exports/typst/
 ---
 
-**Current El Niño Longitude Index (ELI) = 179.2 - Date: 2026-06-22**
+**Current El Niño Longitude Index (ELI) = 182.5 - Date: 2026-07-03**
 
 # Every El Niño event is different and also its impacts
 
@@ -31,6 +31,12 @@ Sea surface temperature composites for two categories of El Niño - Southern Osc
 Depending on ocean-atmospheric variables in the Pacific, the atmosphere reacts differently to the position of the Sea Surface Temperature (SST) anomalies. This imply different impacts on the worlds climate, i.e. the teleconnections, depending on how much SSTs are over the convection thershold and their location (https://doi.org/10.1029/2018GL079203). Then ENSO events can be classified as Central or East Pacific events ({numref}`fig-ENSO-diversity`) 
 
 How differently do they evolve? It depends on pressure difference over the Pacific ({numref}`fig-SOI`).
+
+ ```{figure} ../images/ELI_Evolution_central_East_Pacific_ENSO.png
+:name: fig-ENSO-diversity-evol
+:alt: 
+El Niño Longitude Index evolution for the year of formation and decay of an El Niño event, classified by East and Central Pacific events compared to the multiannual mean.
+```
 
 ## Changes in pressure control winds
 

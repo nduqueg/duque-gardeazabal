@@ -50,10 +50,10 @@ We know the evolution towards one kind of ENSO event is probably related to the 
 
 ## Global teleconnetions and the impacts change depending on the kind of event
 
-Some research has look at how teleconnections to **North America and Europe** depend on the position of alterated convection in the tropical Pacific (https://doi.org/10.1007/s00382-019-05004-8), few have look to the connection to Europe and its effects on tropical cyclones. The differneces in the influence to South America is being considered but not explicitly with the logitudinal position of the SSTs ({numref}`fig-ENSO-SAme`; http://dx.doi.org/10.1038/s43017-020-0040-3). 
+Some research has look at how teleconnections to **North America and Europe** depend on the position of alterated convection in the tropical Pacific (https://doi.org/10.1007/s00382-019-05004-8), few have look to the connection to Europe and its effects on tropical cyclones. The differneces in the influence to South America was studied but not explicitly with the logitudinal position of the SSTs anomalies and the threshold for convection ({numref}`fig-ENSO-SAme`; http://dx.doi.org/10.1038/s43017-020-0040-3). 
 
-```{figure} ../images/ENSO-diversity_SAmer.png
+```{figure} ../images/Ppt_central_East_Pacific_ENSO.png
 :name: fig-ENSO-SAme
 :alt: 
-Impacts of ENSO diversity in South America's precipitation for (left) East Pacific and (right) Central Pacific ENSO events. Taken from http://dx.doi.org/10.1038/s43017-020-0040-3.
+Impacts of ENSO diversity in Northern South America's precipitation for East Pacific and Central Pacific ENSO events depending on the season.
 ```

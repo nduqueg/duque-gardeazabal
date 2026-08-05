@@ -12,7 +12,7 @@ subtitle: Personal website - Dr. Nicolás Duque Gardeazábal
 ![Alt text](pages/images/foto_mia.png)
 :::
 
-Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors ([more about my work](pages/CV.md)). Specifically, I research and work on drivers of weather and climate impacts on **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes), that have impacts on agriculture and the broad economy. 
+Welcome to this *anxious* attempt to help create a better world through analysing climate variability impacts on socio-economic sectors ([more about my work](pages/CV.md)). Specifically, I [research](https://www.geography.unibe.ch/about_us/staff/duque_gardeazbal_nicols/index_eng.html) and work on drivers of weather and climate impacts on **renewable energy sources** (wind, solar and hydro-power) and to the analysis of **extreme hydrometeorological events** (droughts, floods, and - someday - heat, fires, and wind extremes), that have impacts on agriculture and the broad economy. 
 
 This helps to improve forecasts, adjust logistic processes and *reduce the impacts on businesses* (climate services).
 

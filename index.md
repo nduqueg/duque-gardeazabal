@@ -1,6 +1,6 @@
 ---
 title: Renewables, droughts, floods and climate variability
-subtitle: Personal website - Dr. Nicolás Duque Gardeazábal
+subtitle: Personal website - Dr. Nicolás Duque Gardeazábal - Universität Bern
 # authors: 
 #     - name: Nico
 #     - linkedin: https://www.linkedin.com/in/nicolas-duque-gardeazabal-phd-59a93683/?locale=en

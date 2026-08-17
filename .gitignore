@@ -6,6 +6,7 @@ __pycache__/
 *.nc
 *.Rhistory
 *update_ELI.R
+*AMM_Atl3.R
 
 # C extensions
 *.so

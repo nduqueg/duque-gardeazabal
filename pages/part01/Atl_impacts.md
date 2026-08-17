@@ -40,8 +40,10 @@ Other ocean-atmospheric phenomena - different from El Niño in the Pacific ([ENS
 
 Forecasting these modes is possible and thus we can predict the impacts they have in renewable energy and agriculture ([climate services](../part02/Climate_services.md))
 
-## Current values (under construction)
+## Current values - Atlantic modes
 
-Meridional mode - XXXX SD
+Date: 2026-07-17
 
-Equatorial mode - XXXX SD
+Meridional mode:  0.18 - includes the retrival of global warming implicitly
+
+Equatorial mode: -0.60 - includes global warming, this calculation does not retrieve the rising trend in SSTs (under construction) 

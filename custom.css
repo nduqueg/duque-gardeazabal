@@ -110,9 +110,9 @@ table th:first-child {
   top: 4rem;                /* Adjust vertical position */
   right: 3rem;              /* Distance from the right edge */
 
-  width: 15rem;
-  max-width: 15rem;
-  min-width: 15rem;
+  width: 20rem;
+  max-width: 20rem;
+  min-width: 20rem;
 
   margin: 0;
   padding: 0;

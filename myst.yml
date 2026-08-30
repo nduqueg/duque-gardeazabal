@@ -36,7 +36,10 @@ project:
       children:
         - file: pages/part01/ENSO_diversity.md
         - file: pages/part01/Atl_impacts.md
-    - file: pages/part02/Climate_services.md
+    - title: Climate services
+      children:
+        - file: pages/part02/Climate_services.md
+        - file: pages/part02/SPI_monitor.md
     # - file: blog.md
     #   children:
     #     - file: tags/myst-markdown.md

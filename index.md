@@ -30,7 +30,7 @@ This helps to improve forecasts, adjust logistic processes and *reduce the impac
 
 ## Featured Projects
 
-::::{grid} 1 2 4 4
+::::{grid} 1 2 2 4
 
 :::{card}
 :link: pages/part01/Atl_impacts.md
@@ -51,6 +51,13 @@ This helps to improve forecasts, adjust logistic processes and *reduce the impac
 ![jupyter](pages/images/Nino_forecast.png)
 +++
 **Climate Services**
+:::
+
+:::{card}
+:link: pages/part02/SPI_monitor.md
+![jupyter](pages/images/SPI3-CHIRPS_monitoring_Col_zoom1987-89.png)
++++
+**Water resources monitoring Services**
 :::
 <!-- 
 :::{card}

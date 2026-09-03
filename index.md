@@ -16,17 +16,9 @@ Welcome to this *anxious* attempt to help create a better world through analysin
 
 This helps to improve forecasts, adjust logistic processes and *reduce the impacts on businesses* (climate services).
 
-**Current El Niño Longitude Index (ELI) = 182.5 - Date: 2026-07-03 - [ENSO diversity](pages/part01/ENSO_diversity.md)**
+**Current El Niño Longitude Index (ELI) = 186.9 - Date: 2026-08-03 - [ENSO diversity](pages/part01/ENSO_diversity.md)**
 
 ---
-
-<!-- :::{card} ENSO diversity
-:link: pages/part01/ENSO_diversity.md
-![](pages/images/ELI_comp_Dec_2.png)
-+++
-**Current El Niño Longitude Index (ELI) = 182.5 - Date: 2026-07-03** 
-::: -->
-
 
 ## Featured Projects
 
@@ -57,7 +49,7 @@ This helps to improve forecasts, adjust logistic processes and *reduce the impac
 :link: pages/part02/SPI_monitor.md
 ![jupyter](pages/images/SPI3-CHIRPS_monitoring_Col_zoom1987-89.png)
 +++
-**Water resources monitoring Services**
+**Water resources <br>monitoring Services**
 :::
 <!-- 
 :::{card}
